@@ -1,0 +1,53 @@
+<playData>
+<!-- images data area start here ... -->
+<viewItem type="image" startTime="4" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">魯凱族&#xd;豹皮帽飾:帽飾</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_1/image_0.jpg" thumbUrl="resource/res/images/album_1/thumb_0.jpg" />
+</viewItem>
+<viewItem type="image" startTime="8" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">賽夏族&#xd;頭目帽:節慶祭典時頭目佩戴，是權力與地位的象徵</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_1/image_1.jpg" thumbUrl="resource/res/images/album_1/thumb_1.jpg" />
+</viewItem>
+<viewItem type="image" startTime="12" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">賽夏族&#xd;警鈴:使用時邊跑邊搖動鐵環，讓鈴聲來昭告族人合力解決所發生的問題&#xd;</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_1/image_2.jpg" thumbUrl="resource/res/images/album_1/thumb_2.jpg" />
+</viewItem>
+<viewItem type="image" startTime="16" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">賽夏族&#xd;煙草盒:放置菸草用</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_1/image_3.jpg" thumbUrl="resource/res/images/album_1/thumb_3.jpg" />
+</viewItem>
+<viewItem type="image" startTime="20" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">賽夏族&#xd;木碗:婉</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_1/image_4.jpg" thumbUrl="resource/res/images/album_1/thumb_4.jpg" />
+</viewItem>
+<viewItem type="image" startTime="24" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">賽夏族&#xd;傳統女服飾:服飾</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_1/image_5.jpg" thumbUrl="resource/res/images/album_1/thumb_5.jpg" />
+</viewItem>
+<viewItem type="image" startTime="28" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">賽夏族&#xd;房舍:族人所居住之屋舍</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_1/image_6.jpg" thumbUrl="resource/res/images/album_1/thumb_6.jpg" />
+</viewItem>
+<!-- images data area end -->
+</playData>

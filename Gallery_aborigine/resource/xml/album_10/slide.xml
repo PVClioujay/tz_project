@@ -1,0 +1,70 @@
+<playData>
+<!-- images data area start here ... -->
+<viewItem type="image" startTime="4" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">太魯閣族&#xd;祭典:祭典儀式木雕</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_10/image_0.jpg" thumbUrl="resource/res/images/album_10/thumb_0.jpg" />
+</viewItem>
+<viewItem type="image" startTime="8" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">太魯閣族&#xd;木雕生活寫實館:民俗藝術文物，生活寫照</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_10/image_1.jpg" thumbUrl="resource/res/images/album_10/thumb_1.jpg" />
+</viewItem>
+<viewItem type="image" startTime="12" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">太魯閣族&#xd;耳飾:飾品</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_10/image_2.jpg" thumbUrl="resource/res/images/album_10/thumb_2.jpg" />
+</viewItem>
+<viewItem type="image" startTime="16" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">太魯閣族&#xd;髮簪:用具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_10/image_3.jpg" thumbUrl="resource/res/images/album_10/thumb_3.jpg" />
+</viewItem>
+<viewItem type="image" startTime="20" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">太魯閣族&#xd;屋舍:族人居住之屋舍</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_10/image_4.jpg" thumbUrl="resource/res/images/album_10/thumb_4.jpg" />
+</viewItem>
+<viewItem type="image" startTime="24" duration="4">
+  <dataInfo size="0" url="resource/res/images/album_10/image_5.jpg" thumbUrl="resource/res/images/album_10/thumb_5.jpg" />
+</viewItem>
+<viewItem type="image" startTime="28" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">太魯閣族&#xd;菸草袋:裝菸草用具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_10/image_6.jpg" thumbUrl="resource/res/images/album_10/thumb_6.jpg" />
+</viewItem>
+<viewItem type="image" startTime="32" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">太魯閣族&#xd;禮刀:頭目佩刀。部落舉行慶典祭儀場合，頭目盛裝時佩刀</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_10/image_7.jpg" thumbUrl="resource/res/images/album_10/thumb_7.jpg" />
+</viewItem>
+<viewItem type="image" startTime="36" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">太魯閣族&#xd;耳飾:婦女盛裝時佩戴之飾品</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_10/image_8.jpg" thumbUrl="resource/res/images/album_10/thumb_8.jpg" />
+</viewItem>
+<viewItem type="image" startTime="40" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">太魯閣族&#xd;額飾:繫於額頭上之飾物</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_10/image_9.jpg" thumbUrl="resource/res/images/album_10/thumb_9.jpg" />
+</viewItem>
+<!-- images data area end -->
+</playData>

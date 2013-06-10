@@ -1,0 +1,82 @@
+<playData>
+<!-- images data area start here ... -->
+<viewItem type="image" startTime="1" duration="1">
+  <info>
+    <caption>雨水回收系統 </caption>
+    <description><![CDATA[<p align="center"><font face="標楷體" color="#FFFFFF" size="22">雨水回收系統 
+
+平日利用雨天時期儲備雨水
+若遇到旱季則可利用回收的雨水灌溉花圃</font></p>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_0.jpg" thumbUrl="resource/res/images/album_2/thumb_0.jpg" />
+</viewItem>
+<viewItem type="image" startTime="2" duration="1">
+  <info>
+    <caption>汙水處理流程平面圖</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_1.jpg" thumbUrl="resource/res/images/album_2/thumb_1.jpg" />
+</viewItem>
+<viewItem type="image" startTime="3" duration="1">
+  <info>
+    <caption>汙水處理系統</caption>
+    <description><![CDATA[<font face="標楷體" color="#FFFFFF" size="22">本處理池係藉「曝氣池」培養之活性污泥微生物，氧化分解廢水中之有機污染物，鼓風機提供了適當之空氣量，以維持微生物之好氧性分解，而懸浮性微生物（ＭＬＳＳ）之維持，可藉「終沈池」污泥迴流達此目的。</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_2.jpg" thumbUrl="resource/res/images/album_2/thumb_2.jpg" />
+</viewItem>
+<viewItem type="image" startTime="4" duration="1">
+  <info>
+    <caption>落葉回收區</caption>
+    <description><![CDATA[<font face="標楷體" color="#FFFFFF" size="22">平日將落葉與淤泥摻雜行堆肥後，再運用到花木栽種用土</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_3.jpg" thumbUrl="resource/res/images/album_2/thumb_3.jpg" />
+</viewItem>
+<viewItem type="image" startTime="5" duration="1">
+  <info>
+    <caption>資源回收室</caption>
+    <description><![CDATA[<font face="標楷體" color="#FFFFFF" size="22">提供平日宿舍大批垃圾量主要集中區
+藉由回收分類，大幅降低垃圾量混雜量</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_4.jpg" thumbUrl="resource/res/images/album_2/thumb_4.jpg" />
+</viewItem>
+<viewItem type="image" startTime="6" duration="1">
+  <info>
+    <caption>回收室</caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">室內展示圖</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_5.jpg" thumbUrl="resource/res/images/album_2/thumb_5.jpg" />
+</viewItem>
+<viewItem type="image" startTime="7" duration="1">
+  <info>
+    <caption>菩薩十地</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_6.jpg" thumbUrl="resource/res/images/album_2/thumb_6.jpg" />
+</viewItem>
+<viewItem type="image" startTime="8" duration="1">
+  <info>
+    <caption>環保七化</caption>
+    <description><![CDATA[<p align="center"><font face="標楷體" color="#FFFFFF" size="22">環保參與年輕化       環保落實生活化
+環保知識普及化       環保力行家庭化
+環保心靈延命化       環保減量零收化
+環保快樂健康化</font></p>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_7.jpg" thumbUrl="resource/res/images/album_2/thumb_7.jpg" />
+</viewItem>
+<viewItem type="image" startTime="9" duration="1">
+  <info>
+    <caption>太陽能路燈</caption>
+    <description><![CDATA[<font face="標楷體" color="#FFFFFF" size="22">利用平日白天吸收少許的太陽能源
+以提供夜晚路間照明使用
+
+降低燈泡耗損的資源</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_8.jpg" thumbUrl="resource/res/images/album_2/thumb_8.jpg" />
+</viewItem>
+<viewItem type="image" startTime="10" duration="1">
+  <info>
+    <caption>太陽能步道</caption>
+    <description><![CDATA[<font face="標楷體" color="#FFFFFF" size="22">整條道路裝載著許多太陽能路燈，利用白天吸取些微的太陽能量，在於晚上提供足夠的燈光，隨著數量的增加可降低不必要的能源耗損</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_2/image_9.jpg" thumbUrl="resource/res/images/album_2/thumb_9.jpg" />
+</viewItem>
+<!-- images data area end -->
+</playData>

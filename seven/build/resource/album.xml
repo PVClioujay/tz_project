@@ -1,0 +1,14 @@
+<albumList>
+  <album thumbSrc="resource/res/images/album_1/thumb.jpg" caption="智慧樓" description="" imgListSrc="resource/xml/album_1/slide.xml" />
+  <album thumbSrc="resource/res/images/album_2/thumb.jpg" caption="善解樓" description="" imgListSrc="resource/xml/album_2/slide.xml" />
+  <album thumbSrc="resource/res/images/album_3/thumb.jpg" caption="知足樓" description="11111111" imgListSrc="resource/xml/album_3/slide.xml" />
+  <album thumbSrc="resource/res/images/album_4/thumb.jpg" caption="合心樓" description="" imgListSrc="resource/xml/album_4/slide.xml" />
+  <album thumbSrc="resource/res/images/album_5/thumb.jpg" caption="感恩樓" description="" imgListSrc="resource/xml/album_5/slide.xml" />
+  <album thumbSrc="resource/res/images/album_6/thumb.jpg" caption="精進樓" description="" imgListSrc="resource/xml/album_6/slide.xml" />
+  <album thumbSrc="resource/res/images/album_7/thumb.jpg" caption="互愛樓" description="" imgListSrc="resource/xml/album_7/slide.xml" />
+  <album thumbSrc="resource/res/images/album_8/thumb.jpg" caption="善解樓" description="" imgListSrc="resource/xml/album_8/slide.xml" />
+  <album thumbSrc="resource/res/images/album_9/thumb.jpg" caption="包容樓" description="" imgListSrc="resource/xml/album_9/slide.xml" />
+  <album thumbSrc="resource/res/images/album_10/thumb.jpg" caption="圖書館" description="" imgListSrc="resource/xml/album_10/slide.xml" />
+  <album thumbSrc="resource/res/images/album_11/thumb.jpg" caption="宿舍" description="" imgListSrc="resource/xml/album_11/slide.xml" />
+  <album thumbSrc="resource/res/images/album_12/thumb.jpg" caption="研究大樓" description="" imgListSrc="resource/xml/album_12/slide.xml" />
+</albumList>

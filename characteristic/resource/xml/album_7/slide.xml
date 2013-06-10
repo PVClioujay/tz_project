@@ -1,0 +1,70 @@
+<playData>
+<!-- images data area start here ... -->
+<viewItem type="image" startTime="1" duration="1">
+  <info>
+    <caption>專題動畫-慈濟人的每一天</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_0.jpg" thumbUrl="resource/res/images/album_7/thumb_0.jpg" />
+</viewItem>
+<viewItem type="image" startTime="2" duration="1">
+  <info>
+    <caption>慈濟三重園區社區道場網站建置</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_1.jpg" thumbUrl="resource/res/images/album_7/thumb_1.jpg" />
+</viewItem>
+<viewItem type="image" startTime="3" duration="1">
+  <info>
+    <caption>慈濟技術學院3D校園導覽建模</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_2.jpg" thumbUrl="resource/res/images/album_7/thumb_2.jpg" />
+</viewItem>
+<viewItem type="image" startTime="4" duration="1">
+  <info>
+    <caption>網頁建置產學合作-清水之愛</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_3.jpg" thumbUrl="resource/res/images/album_7/thumb_3.jpg" />
+</viewItem>
+<viewItem type="image" startTime="5" duration="1">
+  <info>
+    <caption>景點導覽-綠色洄瀾</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_4.jpg" thumbUrl="resource/res/images/album_7/thumb_4.jpg" />
+</viewItem>
+<viewItem type="image" startTime="6" duration="1">
+  <info>
+    <caption>關卡型益智冒險RPG-北極熊大冒險</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_5.jpg" thumbUrl="resource/res/images/album_7/thumb_5.jpg" />
+</viewItem>
+<viewItem type="image" startTime="7" duration="1">
+  <info>
+    <caption>專題動畫-幫她找一個好歸宿</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_6.jpg" thumbUrl="resource/res/images/album_7/thumb_6.jpg" />
+</viewItem>
+<viewItem type="image" startTime="8" duration="1">
+  <info>
+    <caption>99全國電力溝通宣導動畫比賽</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_7.jpg" thumbUrl="resource/res/images/album_7/thumb_7.jpg" />
+</viewItem>
+<viewItem type="image" startTime="9" duration="1">
+  <info>
+    <caption>網路購物平台管理系統</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_8.jpg" thumbUrl="resource/res/images/album_7/thumb_8.jpg" />
+</viewItem>
+<viewItem type="image" startTime="10" duration="1">
+  <info>
+    <caption>RFID接觸式比賽計分系統</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_9.jpg" thumbUrl="resource/res/images/album_7/thumb_9.jpg" />
+</viewItem>
+<viewItem type="image" startTime="11" duration="1">
+  <info>
+    <caption>RFID健康護照</caption>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_7/image_10.jpg" thumbUrl="resource/res/images/album_7/thumb_10.jpg" />
+</viewItem>
+<!-- images data area end -->
+</playData>

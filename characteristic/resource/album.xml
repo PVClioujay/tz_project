@@ -1,0 +1,10 @@
+<albumList>
+  <album thumbSrc="resource/res/images/album_1/thumb.jpg" caption="生態與環境" description="" imgListSrc="resource/xml/album_1/slide.xml" />
+  <album thumbSrc="resource/res/images/album_2/thumb.jpg" caption="環保" description="" imgListSrc="resource/xml/album_2/slide.xml" />
+  <album thumbSrc="resource/res/images/album_3/thumb.jpg" caption="教育與學習" description="" imgListSrc="resource/xml/album_3/slide.xml" />
+  <album thumbSrc="resource/res/images/album_4/thumb.jpg" caption="關懷與服務" description="" imgListSrc="resource/xml/album_4/slide.xml" />
+  <album thumbSrc="resource/res/images/album_5/thumb.jpg" caption="娛樂" description="" imgListSrc="resource/xml/album_5/slide.xml" />
+  <album thumbSrc="resource/res/images/album_6/thumb.jpg" caption="人文" description="" imgListSrc="resource/xml/album_6/slide.xml" />
+  <album thumbSrc="resource/res/images/album_7/thumb.jpg" caption="科技" description="" imgListSrc="resource/xml/album_7/slide.xml" />
+  <album thumbSrc="resource/res/images/album_8/thumb.jpg" caption="原住民博物館" description="" imgListSrc="resource/xml/album_8/slide.xml" />
+</albumList>

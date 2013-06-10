@@ -1,0 +1,39 @@
+<playData>
+<!-- images data area start here ... -->
+<viewItem type="image" startTime="4" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">鄒族&#xd;魚荃:溪河裡不捕捉魚蝦用具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_6/image_0.jpg" thumbUrl="resource/res/images/album_6/thumb_0.jpg" />
+</viewItem>
+<viewItem type="image" startTime="8" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">鄒族&#xd;臂飾:裝飾。勇士在祭典祭儀時佩戴，以表彰其勇士事蹟</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_6/image_1.jpg" thumbUrl="resource/res/images/album_6/thumb_1.jpg" />
+</viewItem>
+<viewItem type="image" startTime="12" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">鄒族&#xd;佩刀:採薪、筏木、禦敵、防獸用之武器、工具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_6/image_2.jpg" thumbUrl="resource/res/images/album_6/thumb_2.jpg" />
+</viewItem>
+<viewItem type="image" startTime="16" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">鄒族&#xd;女仕服飾:頭飾、胸兜、上衣、腰帶、圍裙。傳統女仕服飾。</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_6/image_3.jpg" thumbUrl="resource/res/images/album_6/thumb_3.jpg" />
+</viewItem>
+<viewItem type="image" startTime="20" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">鄒族&#xd;屋舍:族人所居住之屋舍</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_6/image_4.jpg" thumbUrl="resource/res/images/album_6/thumb_4.jpg" />
+</viewItem>
+<!-- images data area end -->
+</playData>

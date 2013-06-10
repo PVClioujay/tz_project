@@ -1,0 +1,81 @@
+<playData>
+<!-- images data area start here ... -->
+<viewItem type="image" startTime="4" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;藤搖籃:放置物品用</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_0.jpg" thumbUrl="resource/res/images/album_15/thumb_0.jpg" />
+</viewItem>
+<viewItem type="image" startTime="8" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;吊勾:懸掛樑上高處，要掛物品用&#xd;藤藍:農事用藤編用器具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_1.jpg" thumbUrl="resource/res/images/album_15/thumb_1.jpg" />
+</viewItem>
+<viewItem type="image" startTime="12" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;女子短上衣:青年婦女常服</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_2.jpg" thumbUrl="resource/res/images/album_15/thumb_2.jpg" />
+</viewItem>
+<viewItem type="image" startTime="16" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;項鍊:裝飾品</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_3.jpg" thumbUrl="resource/res/images/album_15/thumb_3.jpg" />
+</viewItem>
+<viewItem type="image" startTime="20" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;木勺:勺湯水用器具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_4.jpg" thumbUrl="resource/res/images/album_15/thumb_4.jpg" />
+</viewItem>
+<viewItem type="image" startTime="24" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;魚荃:淡水溪河池潭捕魚用具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_5.jpg" thumbUrl="resource/res/images/album_15/thumb_5.jpg" />
+</viewItem>
+<viewItem type="image" startTime="28" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;屋舍:族人所居住之屋舍</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_6.jpg" thumbUrl="resource/res/images/album_15/thumb_6.jpg" />
+</viewItem>
+<viewItem type="image" startTime="32" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;木盤:盛食物用餐具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_7.jpg" thumbUrl="resource/res/images/album_15/thumb_7.jpg" />
+</viewItem>
+<viewItem type="image" startTime="36" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;銅鍋:清朝官府賞給頭目用大鍋</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_8.jpg" thumbUrl="resource/res/images/album_15/thumb_8.jpg" />
+</viewItem>
+<viewItem type="image" startTime="40" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;背籠:藤編背型容器</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_9.jpg" thumbUrl="resource/res/images/album_15/thumb_9.jpg" />
+</viewItem>
+<viewItem type="image" startTime="44" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">邵族&#xd;捕蛙器:捕捉青蛙、牛蛙及淺水捉魚蝦用具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_15/image_10.jpg" thumbUrl="resource/res/images/album_15/thumb_10.jpg" />
+</viewItem>
+<!-- images data area end -->
+</playData>

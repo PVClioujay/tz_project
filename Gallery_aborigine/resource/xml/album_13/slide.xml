@@ -1,0 +1,88 @@
+<playData>
+<!-- images data area start here ... -->
+<viewItem type="image" startTime="4" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;巫司道具:女巫師司法用法器</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_0.jpg" thumbUrl="resource/res/images/album_13/thumb_0.jpg" />
+</viewItem>
+<viewItem type="image" startTime="8" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;頭飾:盛裝時繫於額頭上的飾品</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_1.jpg" thumbUrl="resource/res/images/album_13/thumb_1.jpg" />
+</viewItem>
+<viewItem type="image" startTime="12" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;耳飾:耳部裝飾品</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_2.jpg" thumbUrl="resource/res/images/album_13/thumb_2.jpg" />
+</viewItem>
+<viewItem type="image" startTime="16" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;腕飾:繫於腕部飾品</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_3.jpg" thumbUrl="resource/res/images/album_13/thumb_3.jpg" />
+</viewItem>
+<viewItem type="image" startTime="20" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;紋面工具:舊俗刺青工具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_4.jpg" thumbUrl="resource/res/images/album_13/thumb_4.jpg" />
+</viewItem>
+<viewItem type="image" startTime="24" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;胸兜:裝飾品。繫於胸前</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_5.jpg" thumbUrl="resource/res/images/album_13/thumb_5.jpg" />
+</viewItem>
+<viewItem type="image" startTime="28" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;頭目服飾:財富與地位的表徵</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_6.jpg" thumbUrl="resource/res/images/album_13/thumb_6.jpg" />
+</viewItem>
+<viewItem type="image" startTime="32" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;頭目帽:象徵地位與權力</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_7.jpg" thumbUrl="resource/res/images/album_13/thumb_7.jpg" />
+</viewItem>
+<viewItem type="image" startTime="36" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;木琴:樂器</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_8.jpg" thumbUrl="resource/res/images/album_13/thumb_8.jpg" />
+</viewItem>
+<viewItem type="image" startTime="40" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;木雕人像椅子:家具</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_9.jpg" thumbUrl="resource/res/images/album_13/thumb_9.jpg" />
+</viewItem>
+<viewItem type="image" startTime="44" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;糧倉:存放小米、稻殼，糧食之倉庫</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_10.jpg" thumbUrl="resource/res/images/album_13/thumb_10.jpg" />
+</viewItem>
+<viewItem type="image" startTime="48" duration="4">
+  <info>
+    <caption></caption>
+    <description><![CDATA[<font face="Tahoma" color="#FFFFFF" size="14">泰雅族&#xd;屋舍:族人居住之房舍</font>]]></description>
+  </info>
+  <dataInfo size="0" url="resource/res/images/album_13/image_11.jpg" thumbUrl="resource/res/images/album_13/thumb_11.jpg" />
+</viewItem>
+<!-- images data area end -->
+</playData>
