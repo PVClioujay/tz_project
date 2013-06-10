@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-hant" xml:lang="zh-hant">
+	<head>
+		<title>tzuichi</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	    <link rel="stylesheet" href="style_menu.css">
+		<link href='http://fonts.googleapis.com/css?family=Ovo' rel='stylesheet' type='text/css'>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+		<script type="text/javascript" src="fancybox/jquery.easing-1.3.pack.js"></script>
+		<script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.js"></script>
+		<script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+		<script type="text/javascript" src="fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+		<script type="text/javascript" src="web.js"></script>
+		<script type="text/javascript" src="pop_web.js"></script>
+		<link rel="stylesheet" href="fancybox/jquery.fancybox-1.3.4.css">
+		
+	<style>
+		html, body { height:100%; background-color: #ffffff;}
+		body { margin:0; padding:0; overflow:hidden; }
+		#flashContent { width:100%; height:100%; }
+		
+		.animation{
+			opacity: 1;
+			animation:menu 10s;
+			-webkit-animation:menu 10s;/*chrome safari*/
+			-moz-animation:menu 100s;/*mozila*/
+		}
+		@keyframes menu{
+			from {opacity: 0;}
+			to	 {opacity: 1;}
+		}
+		@-webkit-keyframes menu{
+			from {opacity: 0;}
+			to	 {opacity: 1;}
+		}
+		@-moz-keyframes menu{
+			from {opacity: 0;}
+			to	 {opacity: 1;}
+		}
+		</style>
+		<script>
+		function pop_school(){
+			window.open("intrduce_school/intrduce.html","__blank");
+		}
+
+		function pop_department(){
+			window.open("intrduce_department/intrduce_department.html","__blank");
+		}
+		
+		</script>
+	</head>
+	<body>
+		<div>
+			<nav>
+				<ul>
+					<li class="animation"><a onclick="pop_school()" href="javascript:;">認識本校</a></li>
+					<li class="animation"><a onclick="pop_department()" href="javascript:;">系所介紹</a></li>
+					<li class="animation"><p>本校科系</p>
+								<ul>
+									<li><p class="iei">資訊科技與管理系</p></li>
+									<li><p class="nurse">護理系、科</p></li>
+									<li><p class="marking">行銷與流通管理系</p></li>
+									<li><p class="medical">醫務管理系</p></li>
+									<li><p class="ray">醫學影像暨放射科學系</p></li>
+									<li><p class="ray_research">放射醫學科學研究所</p></li>
+								</ul>
+							</li>
+					
+					<li class="animation"><p>本校導覽</p>
+						<ul>
+							<li><p class="build">校園巡禮</p></li>
+							<li><p>本校特色</p>
+								<ul>
+									<li><p class="aborigine">原住民博物館</p></li>
+									<li><p class="service">關懷與服務</p></li>
+									<li><p class="edu">教育與學習</p></li>
+									<li><p class="culture">人文</p></li>
+									<li><p class="recycle">環保</p></li>
+									<li><p class="pro">科技</p></li>
+									<li><p class="fun">娛樂</p></li>
+								</ul>
+							</li>
+						</li>
+							<li id="panoroma"><p>校園全景</p>
+						<ul>
+							<li><p>學校大門</p>
+								<ul>
+									<li><a href="javascript:;" onclick="pop_door()">校門口</a></li>
+									<li><a href="javascript:;" onclick="pop_side()">校門口(往智耕樓)</a></li>
+									<li><a href="javascript:;" onclick="pop_grace()">校門口(大草原)</a></li>
+								</ul>
+							</li>
+							<li><p>智慧樓</p>
+								<ul>
+									<li><a href="javascript:;" onclick="pop_courtyard()">智慧樓(廣場前馬路)</a></li>
+									<li><a href="javascript:;" onclick="pop_drive()">智慧樓(廣長前走廊)</a></li>
+									<li><a href="javascript:;" onclick="pop_marble()">智慧樓(大理石廣場)</a></li>
+								</ul>
+							</li>
+							<li><p>圖書館</p>
+								<ul>
+									<li><a href="javascript:;" onclick="pop_courtyard()">圖書館(前中庭)</a></li>
+									<li><a href="javascript:;" onclick="pop_enter()">圖書館(大廳入口)</a></li>
+									<li><a href="javascript:;" onclick="pop_lobby()">圖書館(大廳)</a></li>
+									<li><a href="javascript:;" onclick="pop_2f()">圖書館(2F)</a></li>
+									<li><a href="javascript:;" onclick="pop_3f()">圖書館(3F)</a></li>
+									<li><a href="javascript:;" onclick="pop_4f()">圖書館(4F)</a></li>
+								</ul>
+							</li>
+							<li><p>人文教室</p>
+								<ul>
+									<li><a href="javascript:;" onclick="pop_calm()">靜修教室</a></li>
+									<li><a href="javascript:;" onclick="pop_flower()">花道教室</a></li>
+									<li><a href="javascript:;" onclick="pop_painting()">書畫教室</a></li>
+									<li><a href="javascript:;" onclick="pop_tea()">茶道教室</a></li>
+								</ul>
+							</li>
+							<li><p>視聽教室</p>
+								<ul>
+								<li><a href="javascript:;" onclick="pop_listen()">北階教室</a></li></ul>
+							</li>
+							<!--<li><p></p></li>
+							<li><p></p></li>
+							<li><p></p></li>
+							<li><p></p></li>
+							<li><p></p></li>-->
+						</ul>
+					</li>
+						</ul>						
+					</li>	
+					<li class="animation" id="mou"><p>策略聯盟</p></li>
+					<li class="animation"><p>招生入學</p>
+						<ul>
+							<li><a onclick="pop_recruitment1()" href="javascript:;">五專入學</a></li>
+							<li><a onclick="pop_recruitment2()" href="javascript:;">四技入學</a></li>
+							<li><a onclick="pop_recruitment3()" href="javascript:;">二技入學</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div id="flashContent">
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="100%" height="100%" id="index" align="middle">
+				<param name="movie" value="index.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#ffffff" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="window" />
+				<param name="scale" value="exactfit" />
+				<param name="menu" value="true" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="" />
+				<param name="allowScriptAccess" value="sameDomain" />
+				<!--[if !IE]>-->
+				<object type="application/x-shockwave-flash" data="index.swf" width="100%" height="100%">
+					<param name="movie" value="index.swf" />
+					<param name="quality" value="high" />
+					<param name="bgcolor" value="#ffffff" />
+					<param name="play" value="true" />
+					<param name="loop" value="true" />
+					<param name="wmode" value="window" />
+				<param name="scale" value="exactfit" />
+					<param name="menu" value="true" />
+					<param name="devicefont" value="false" />
+					<param name="salign" value="" />
+					<param name="allowScriptAccess" value="sameDomain" />
+				<!--<![endif]-->
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+					</a>
+				<!--[if !IE]>-->
+				</object>
+				<!--<![endif]-->
+			</object>
+		</div>
+	</body>
+</html>
